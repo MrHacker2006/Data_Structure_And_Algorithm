@@ -61,8 +61,8 @@ If you're learning DSA too, feel free to fork or star ⭐ this repo!
 
 ## 📬 Connect with Me
 
--Email -> guptagautam908@gmail.com
--Linkedin -> www.linkedin.com/in/gupta-gautam-18-DS
+- **Email** → [guptagautam908@gmail.com](mailto:guptagautam908@gmail.com)  
+- **LinkedIn** → [linkedin.com/in/gupta-gautam-18-DS](https://www.linkedin.com/in/gupta-gautam-18-DS)
 
 ---
 
